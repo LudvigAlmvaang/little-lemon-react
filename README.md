@@ -1,3 +1,7 @@
+## See the UI/UX design I have created in Figma
+
+https://www.figma.com/file/rMigo5sfb9XEgWB9X1QGeJ/Capstone-project?type=design&node-id=0%3A1&mode=design&t=6ZzyyeuhaVgxAmig-1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
