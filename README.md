@@ -19,8 +19,18 @@ For this I have created a wireframe and prototype in Figma, and then the final f
 
 https://www.figma.com/file/rMigo5sfb9XEgWB9X1QGeJ/Capstone-project?type=design&node-id=0%3A1&mode=design&t=6ZzyyeuhaVgxAmig-1
 
+<details>
+
+<summary>Show Wireframe 1</summary>
+
 ![wireframe-home](./readmeAssets/wireframe/HOME.png)
+
+</details> <details>
+
+<summary>Show Wireframe 2</summary>
+
 ![wireframe-reservations](./readmeAssets/wireframe/RESERVATION.png)
+</details>
 
 ## Prototype
 
