@@ -30,9 +30,16 @@ https://www.figma.com/file/rMigo5sfb9XEgWB9X1QGeJ/Capstone-project?type=design&n
 <summary>Show Wireframe 2</summary>
 
 ![wireframe-reservations](./readmeAssets/wireframe/RESERVATION.png)
+
 </details>
 
 ## Prototype
+
+<summary>Show Prototype 1</summary>
+
+![wireframe-reservations](./readmeAssets/prototype/HOME.png)
+
+</details>
 
 ## Live Demo
 
