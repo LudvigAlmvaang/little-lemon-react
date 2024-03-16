@@ -6,8 +6,6 @@
 - [Wireframe](#wireframe)
 - [Prototype](#prototype)
 - [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
-- [Todos](#todos)
 - [Installation](#installation)
 
 ## Introduction
@@ -52,6 +50,8 @@ The primary tasks are to create a wireframe for the web app in Figma, then move 
 </details>
 
 ## Live Demo
+
+Coming soon!
 
 ## Installation
 
