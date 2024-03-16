@@ -13,7 +13,7 @@
 ## Introduction
 
 This is my Capstone project for Meta Front-End Developer Professional Certificate; a Coursera specialization by Meta.
-For this I have created a wireframe and prototype in Figma, and then the final front-end for a web app using the React library.
+The primary tasks are to create a wireframe for the web app in Figma, then move on to making a prototype in Figma, then lastly to create the web app in React and make sure that the "reserve a table" function works.
 
 ## Wireframe
 
@@ -52,10 +52,6 @@ For this I have created a wireframe and prototype in Figma, and then the final f
 </details>
 
 ## Live Demo
-
-## Screenshots
-
-## Todos
 
 ## Installation
 
