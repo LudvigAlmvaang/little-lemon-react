@@ -34,6 +34,7 @@ https://www.figma.com/file/rMigo5sfb9XEgWB9X1QGeJ/Capstone-project?type=design&n
 </details>
 
 ## Prototype
+<details>
 
 <summary>Show Prototype 1</summary>
 
