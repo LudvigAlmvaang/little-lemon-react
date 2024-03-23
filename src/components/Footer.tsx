@@ -1,8 +1,8 @@
-import React from "react";
-
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div className="h-[500px] bg-[rgb(237,239,238)] grid place-items-center">
+    <p>Footer section</p>
+  </div>
   );
 };
 

@@ -1,8 +1,8 @@
-import React from "react";
-
 const About = () => {
   return (
-    <div>About</div>
+    <div className="h-[700px] grid place-items-center">
+    <p>About section</p>
+  </div>
   );
 };
 

@@ -1,8 +1,8 @@
-import React from "react";
-
 const Highlights = () => {
   return (
-    <div>Highlights</div>
+    <div className="h-[600px] grid place-items-center">
+      <p>Highlight section</p>
+    </div>
   );
 };
 

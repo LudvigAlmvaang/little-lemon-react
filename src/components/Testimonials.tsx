@@ -1,8 +1,8 @@
-import React from "react";
-
 const Testimonials = () => {
   return (
-    <div>Testimonials</div>
+    <div className="h-[500px] grid place-items-center">
+    <p>Testimonial Section</p>
+  </div>
   );
 };
 

@@ -1,8 +1,8 @@
-import React from "react";
-
 const HeroSection = () => {
   return (
-    <div>Hero Section</div>
+    <div className="h-[400px] bg-[rgb(73,94,87)] text-white grid place-items-center">
+      <p>Hero Section</p>
+    </div>
   );
 };
 
