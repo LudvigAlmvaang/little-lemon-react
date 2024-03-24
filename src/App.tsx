@@ -7,14 +7,16 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <main>
-      <Header />
-      <HeroSection />
-      <Highlights />
-      <Testimonials />
-      <About />
-      <Footer />
-    </main>
+      <main className="max-w-[1440px] bg-white m-auto">
+        <div className="grid">
+          <Header />
+          <HeroSection />
+          <Highlights />
+          <Testimonials />
+          <About />
+          <Footer />
+        </div>
+      </main>
   );
 }
 
