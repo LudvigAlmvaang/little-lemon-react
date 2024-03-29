@@ -2,6 +2,20 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+@font-face {
+    font-family: Markazi;
+    src: url(./assets/fonts/Markazi_Text/static/MarkaziText-Medium.ttf);
+    font-weight: medium;
+}
+@font-face {
+    font-family: Karla;
+    src: url(./assets/fonts/Karla/Karla-VariableFont_wght.ttf);
+}
+
+html {
+    scroll-behavior: smooth;
+	user-select: none;
+}
 body {
     background-color: rgb(237,239,238);
 }
