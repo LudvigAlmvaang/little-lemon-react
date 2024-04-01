@@ -19,3 +19,12 @@ html {
 body {
     background-color: rgb(237,239,238);
 }
+
+@media (min-width: 1024px) {
+    .grid-template-2{
+        grid-template-columns: 100pxfr 1fr 1fr 100px;
+    }
+    .grid-template-3{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}

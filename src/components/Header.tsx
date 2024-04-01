@@ -6,7 +6,7 @@ const Header = () => {
       <nav className="w-[860px] h-[85px]">
         <div className="flex items-center justify-between">
           <img src={logo} alt="Logo" className="h-[85px]" />
-          <ul className="flex font-sans font-karla font-bold text-[#333333] text-xl space-x-8">
+          <ul className="flex font-karla font-bold text-[#333333] text-xl space-x-8">
             <li><a href="#home" className="hover:underline">Home</a></li>
             <li><a href="#about" className="hover:underline">About</a></li>
             <li><a href="#menu" className="hover:underline">Menu</a></li>
