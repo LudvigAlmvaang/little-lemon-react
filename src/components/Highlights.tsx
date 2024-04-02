@@ -13,7 +13,7 @@ const Highlights = () => {
           <div className="px-6 py-4">
             <div className="font-markazi font-bold text-2xl mb-2">Greek Salad</div>
             <p className="text-gray-700 font-karla text-[12px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu tortor  arcu. Curabitur vitae eros iaculis velit ultrices suscipit. Curabitur.</p>
-            <p className="font-karla">Order a delivery →</p>
+            <a href="#delivery" className="font-karla hover:underline">Order a delivery →</a>
           </div>
         </div>
         <div className="max-w-sm rounded overflow-hidden shadow-lg w-[260px] bg-[rgb(237,239,238)]">
@@ -21,7 +21,7 @@ const Highlights = () => {
           <div className="px-6 py-4">
             <div className="font-markazi font-bold text-2xl mb-2">Bruchetta</div>
             <p className="text-gray-700 font-karla text-[12px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu tortor  arcu. Curabitur vitae eros iaculis velit ultrices suscipit. Curabitur.</p>
-            <p className="font-karla">Order a delivery →</p>
+            <a href="#delivery" className="font-karla hover:underline">Order a delivery →</a>
           </div>
         </div>
         <div className="lg:[justify-self:end] max-w-sm rounded overflow-hidden shadow-lg w-[260px] bg-[rgb(237,239,238)]">
@@ -29,7 +29,7 @@ const Highlights = () => {
           <div className="px-6 py-4">
             <div className="font-markazi font-bold text-2xl mb-2">Lemon Dessert</div>
             <p className="text-gray-700 font-karla text-[12px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu tortor  arcu. Curabitur vitae eros iaculis velit ultrices suscipit. Curabitur.</p>
-            <p className="font-karla">Order a delivery →</p>
+            <a href="#delivery" className="font-karla hover:underline">Order a delivery →</a>
           </div>
         </div>
       </div>
