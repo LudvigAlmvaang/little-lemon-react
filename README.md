@@ -1,5 +1,6 @@
 # Little Lemon -- React
-**{\color{red}Under Development}**
+> [!NOTE]
+> Project under development
 
 ## Table of Content
 
