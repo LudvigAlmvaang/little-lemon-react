@@ -1,5 +1,3 @@
-import { useState } from 'react';
-import Reservation from './Reservation';
 import img1 from '../assets/images/restauranfood.jpg';
 
 const HeroSection = ({ onReservationOpen }) => {
