@@ -5,7 +5,7 @@ interface ReservationProps {
   onClose: () => void;
 }
 
-function Reservation({ showPopup = false, onClose }) {
+const Reservation: React.FC<ReservationProps> = ({ showPopup = false, onClose }) => {
   const [timeSlot, setTimeSlot] = useState('');
   const [occasion, setOccasion] = useState('');
   const [name, setName] = useState('');
@@ -14,7 +14,7 @@ function Reservation({ showPopup = false, onClose }) {
   const [people, setPeople] = useState('');
   const [date, setDate] = useState('');
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     // Handle form submission here
   }

@@ -1,6 +1,6 @@
 import img1 from '../assets/images/restauranfood.jpg';
 
-const HeroSection = ({ onReservationOpen }) => {
+const HeroSection: React.FC<{ onReservationOpen: () => void }> = ({ onReservationOpen }) => {
   return (
     <div className="grid min-h-[400px] bg-[rgb(73,94,87)] text-black justify-items-center items-center">
       <div className="grid min-h-[400px] lg:grid-cols-2 lg:w-[872px] justify-items-center items-center text-[#EDEFEE]">
