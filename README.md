@@ -1,5 +1,5 @@
 # Little Lemon -- React
-$${\color{red}Under Development}$$
+**{\color{red}Under Development}**
 
 ## Table of Content
 
